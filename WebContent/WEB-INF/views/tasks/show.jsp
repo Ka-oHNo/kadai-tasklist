@@ -11,7 +11,7 @@
                     <tbody>
 
                         <tr>
-                            <th>メッセージ</th>
+                            <th>タスク</th>
                             <td><c:out value="${tasks.content}" /></td>
                         </tr>
                         <tr>
